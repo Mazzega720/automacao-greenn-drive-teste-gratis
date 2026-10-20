@@ -1,0 +1,12 @@
+# Internal multi-agent orchestration logs
+.agents/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment variables & local secrets
+.env
+*.local
